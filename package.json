@@ -1,0 +1,17 @@
+{
+  "name": "belajar-vite",
+  "version": "1.0.0",
+  "description": "Belajar Vite",
+  "main": "index.js",
+  "keywords": [
+    "Belajar",
+    "Vite",
+    "Vue"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Hafiz",
+  "license": "ISC",
+  "type": "module"
+}
